@@ -4,7 +4,13 @@ An interactive Power BI dashboard analyzing online retail performance across 201
 
 ## 🛠️ TECH STACK
 
-The dashboard was developed utilizing the following tools and technologies: • 📊 **Power BI Desktop** – Platform for data visualization used to design interactive reports and dashboards. • 📂 **Power Query** – Data processing and ETL component for cleaning, reshaping, and preparing raw Excel datasets for analysis. • 🧠 **DAX (Data Analysis Expressions)** – Used to create measures, revenue metrics, and dynamic KPIs. • 📝 **Data Modeling** – Defined relationships between transactions, customers, products, and geographic dimensions to enable cross-filtering and aggregation. • 📗 **Microsoft Excel** – Data examination, accuracy verification, and creation of auxiliary columns for data readiness. • 📁 **File Formats** – .pbix used for Power BI development, .xlsx containing the dataset, and .pdf serving as the completion certificate.
+The dashboard was developed utilizing the following tools and technologies:
+• 📊 **Power BI Desktop** – Platform for data visualization used to design interactive reports and dashboards.
+• 📂 **Power Query** – Data processing and ETL component for cleaning, reshaping, and preparing raw Excel datasets for analysis.
+• 🧠 **DAX (Data Analysis Expressions)** – Used to create measures, revenue metrics, and dynamic KPIs.
+• 📝 **Data Modeling** – Defined relationships between transactions, customers, products, and geographic dimensions to enable cross-filtering and aggregation.
+• 📗 **Microsoft Excel** – Data examination, accuracy verification, and creation of auxiliary columns for data readiness.
+• 📁 **File Formats** – .pbix used for Power BI development, .xlsx containing the dataset, and .pdf serving as the completion certificate.
 
 ## 📂 DATA SOURCE
 
@@ -26,11 +32,17 @@ To deliver a data-centric Power BI dashboard that: • Integrates retail perform
 
 ### • Walkthrough of Key Visuals
 
-**Revenue Trend (2011)** – Line graph displaying a $868.5K baseline from January to August rising sharply to a $1.5M peak in November, validating robust Q4 seasonality beneficial for marketing and inventory strategies. • **Top 10 Countries by Revenue & Quantity** – Clustered bar chart (excluding UK) emphasizing the Netherlands, Ireland, Germany, France, and Australia as key successful markets for expansion efforts. • **Top 10 Customers by Revenue** – A descending bar chart highlighting a balanced spread (the leading customer is just 17-20% higher than the runner-up), reflecting solid diversification and minimal concentration risk. • **Global Demand Heat Map** – An interactive map (excluding UK) displaying robust demand across Western Europe and Australia alongside significant growth opportunities in Africa, Asia, and certain regions of North America.
+**Revenue Trend (2011)** – Line graph displaying a $868.5K baseline from January to August rising sharply to a $1.5M peak in November, validating robust Q4 seasonality beneficial for marketing and inventory strategies.
+• **Top 10 Countries by Revenue & Quantity** – Clustered bar chart (excluding UK) emphasizing the Netherlands, Ireland, Germany, France, and Australia as key successful markets for expansion efforts.
+• **Top 10 Customers by Revenue** – A descending bar chart highlighting a balanced spread (the leading customer is just 17-20% higher than the runner-up), reflecting solid diversification and minimal concentration risk.
+• **Global Demand Heat Map** – An interactive map (excluding UK) displaying robust demand across Western Europe and Australia alongside significant growth opportunities in Africa, Asia, and certain regions of North America.
 
 ### • Business Impact & Insights
 
-**Strategic Growth Planning** – Selected 5 high-priority markets for concentrated investment and supply chain strengthening based on demonstrated revenue and volume achievements. • **Seasonal Revenue Enhancement** – Q4 growth trend ($868.5K → $1.5M) supports proactive marketing initiatives, stock distribution, and workforce planning to achieve a 73% increase in revenue. • **Risk Reduction** – Verified a diversified customer portfolio through evenly spread revenue, lowering reliance on single clients and preserving pricing leverage. • **Geographic Opportunity Mapping** – Heat map visualization identified untapped markets for initiating pilot programs and planning long-term expansion strategies.
+**Strategic Growth Planning** – Selected 5 high-priority markets for concentrated investment and supply chain strengthening based on demonstrated revenue and volume achievements.
+• **Seasonal Revenue Enhancement** – Q4 growth trend ($868.5K → $1.5M) supports proactive marketing initiatives, stock distribution, and workforce planning to achieve a 73% increase in revenue.
+• **Risk Reduction** – Verified a diversified customer portfolio through evenly spread revenue, lowering reliance on single clients and preserving pricing leverage.
+• **Geographic Opportunity Mapping** – Heat map visualization identified untapped markets for initiating pilot programs and planning long-term expansion strategies.
 
 ## 📸 Dashboard Preview
 
