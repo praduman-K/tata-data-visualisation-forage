@@ -1,4 +1,4 @@
-📊 Tata-Online-Retail-Analytics-Dashboard
+#📊 Tata-Online-Retail-Analytics-Dashboard
 
 An interactive Power BI dashboard analyzing online retail performance across 2011, revealing $1.5M peak revenue, 73% Q4 seasonality, and strategic expansion opportunities in 5 high-priority markets (Netherlands, Ireland, Germany, France, Australia).
 
