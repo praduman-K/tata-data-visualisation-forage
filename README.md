@@ -33,4 +33,5 @@ Revenue Trend (2011) – Line graph displaying a $868.5K baseline from January t
 Strategic Growth Planning – Selected 5 markets for concentrated investment and supply chain strengthening based on demonstrated revenue and volume achievements. • Seasonal Revenue Enhancement – Q4 growth trend ($868.5K → $1.5M) supports marketing initiatives, stock distribution and workforce planning to achieve a 73% increase in revenue. • Risk Reduction – Verified a customer portfolio through evenly spread revenue lowering reliance, on single clients and preserving pricing leverage. • Geographic Opportunity Mapping – Heat map visualization identified markets for initiating pilot programs and planning long-term expansion strategies.
 
 📸 Dashboard Preview 
+<img width="1269" height="712" alt="Dashboard_Sales_insight" src="https://github.com/user-attachments/assets/80f31032-fea6-495e-837e-09077317bb91" />
 
